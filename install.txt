@@ -1,0 +1,6 @@
+//jestesmy w var/www
+npm install -g express
+npm install -g express-generator
+express nodejs
+
+npm install
